@@ -1,4 +1,6 @@
 # Scud Bomb
+![](https://img.shields.io/badge/Scud-Python-blue.svg)
+
 ![SB.png](https://github.com/KURO-CODE/Scud/blob/master/SB.png)
 
 
