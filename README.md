@@ -1,8 +1,9 @@
 # Scud Bomb
 ![SB.png](https://github.com/KURO-CODE/Scud/blob/master/SB.png)
+
 ![](https://img.shields.io/badge/SCUD-Python-blue.svg)
 
-# GUI 
+# GUI
 ![SBGUI.png](https://github.com/KURO-CODE/Scud/blob/master/SBGUI.png)
 
 * Simple Mail Bomber GUI, connects to the Gmail SMTP server.
