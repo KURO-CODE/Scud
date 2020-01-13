@@ -21,7 +21,7 @@ Tkinter (apt install python-tk)
 # Use
 * Configure attacking mailbox
 ```bash
-* git clone https://github.com/KURO-CODE/Scud.git
-* cd Scud
-* python SBGUI.py
+git clone https://github.com/KURO-CODE/Scud.git
+cd Scud
+python SBGUI.py
 ```
